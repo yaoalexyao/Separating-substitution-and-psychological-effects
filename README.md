@@ -1,14 +1,14 @@
 # Data and code sharing for paper "Separating Substitution and Psychological Effects with A Two-step Conjoint Approach: Application to Luxury Goods"
 
-# Estimation code is provided in
+## Estimation code is provided in
 
 	Code sunglasses with notes.R
 
-# Sample conjoint design is provided in 
+## Sample conjoint design is provided in 
 
 	Sunglasses conjoint design illustration (translated).doc
 
-# Data Description:
+## Data Description:
 
 This conjoint data includes 1020 respondents. Each respondent takes one general DCE taks and three driver DCE tasks. Product (attribute levels), budget and conumer demographics information is porovided in the following documents after being rescaled: 
 
