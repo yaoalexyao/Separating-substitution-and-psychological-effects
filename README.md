@@ -1,7 +1,14 @@
-# Separating-substitution-and-psychological-effects
-Data and code sharing for paper "Separating Substitution and Psychological Effects with A Two-step Conjoint Approach: Application to Luxury Goods"
+# Data and code sharing for paper "Separating Substitution and Psychological Effects with A Two-step Conjoint Approach: Application to Luxury Goods"
 
-Data:
+# Estimation code is provided in
+
+	Code sunglasses with notes.R
+
+# Sample conjoint design is provided in 
+
+	Sunglasses conjoint design illustration (translated).doc
+
+# Data Description:
 
 This conjoint data includes 1020 respondents. Each respondent takes one general DCE taks and three driver DCE tasks. Product (attribute levels), budget and conumer demographics information is porovided in the following documents after being rescaled: 
 
@@ -28,12 +35,3 @@ After establishing the psychological effect, we next model how the three potenti
 
 "Step 2 coefficients.csv" records the estimated coefficients in Step 2 (for Segment 1). These estimates were used in the following step to calculate the segment size and memberships of sub-segment Segment 1a (price prestige seeker) and Segment 1b (self rewarder). In step 3, we explored the relationship between price and each driver indicator for each sub-segment. 
 
-
-Code:
-
-"Code sunglasses with notes.R" provides estimation code for all three steps.
-
-
-Sample conjoint design
-
-"Sunglasses conjoint design illustration (translated).doc" provides a sample conjoint design.
