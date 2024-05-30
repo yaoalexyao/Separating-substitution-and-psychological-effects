@@ -26,4 +26,4 @@ The estimated coefficients in Step 1 is recorded in "Step 1 coefficients.csv." T
 
 "Code sunglasses with notes.R" provides estimation code for all three steps.
 
-Sunglasses conjoint design illustration (translatead).doc illustrates a sample conjoint design.
+"Sunglasses conjoint design illustration (translated).doc" provides a sample conjoint design.
